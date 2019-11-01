@@ -1,0 +1,26 @@
+.img{
+    align-items: center;
+}
+
+.container about-page{
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 2%;
+    font-size: 14px;
+    border: black;
+}
+.strategy{
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 2%;
+    font-size: 14px;
+    border: black;
+
+}
+.footer{
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 2%;
+    font-size: 14px;
+    border: black;
+}

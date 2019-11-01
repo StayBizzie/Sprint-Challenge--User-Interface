@@ -106,10 +106,12 @@ p {
 .middle-content {
     margin-bottom: 20px;
     border-bottom: 1px dashed black;
+    color : green;
 }
 
+
 .box1{
-    color: teal;
+    
     width: 100px;
     height: 100px;
     padding: 20px;
@@ -210,16 +212,6 @@ p {
     justify-content: space-evenly;
 }
 
-.box1{color: teal;}
-.box2{color: gold;}
-.box3{color: cadetblue;}
-.box4{color: coral;}
-.box5{color: crimson;}
-.box6{color: forestgreen;}
-.box7{color: darkorchid;}
-.box8{color: hotpink;}
-.box9{color: indigo;}
-.box10{color: dodgerblue;}
 
 .middle-content .boxes .box {
     width: 12.5%;
@@ -231,6 +223,17 @@ p {
     align-items: center;
     justify-content: center;
 }
+
+.box1{color: teal;}
+.box2{color: gold;}
+.box3{color: cadetblue;}
+.box4{color: coral;}
+.box5{color: crimson;}
+.box6{color: forestgreen;}
+.box7{color: darkorchid;}
+.box8{color: hotpink;}
+.box9{color: indigo;}
+.box10{color: dodgerblue;}
 
 .bottom-content {
     display: flex;
