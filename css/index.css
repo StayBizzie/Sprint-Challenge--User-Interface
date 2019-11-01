@@ -108,16 +108,97 @@ p {
     border-bottom: 1px dashed black;
 }
 
-.box1{color: teal;}
-.box2{color: gold;}
-.box3{color: cadetblue;}
-.box4{color: coral;}
-.box5{color: crimson;}
-.box6{color: forestgreen;}
-.box7{color: darkorchid;}
-.box8{color: hotpink;}
-.box9{color: indigo;}
-.box10{color: dodgerblue;}
+.box1{
+    background: teal;
+    width: 100px;
+    height: 100px;
+    padding: 20px;
+    box-sizing: border-box;
+    border: 1px solid black;  
+    margin: 20px;
+}
+.box2{
+    background: gold;
+    width: 100px;
+    height: 100px;
+    padding: 20px;
+    box-sizing: border-box;
+    border: 1px solid black;  
+    margin: 20px;
+}
+.box3{
+    background: cadetblue;
+    width: 100px;
+    height: 100px;
+    padding: 20px;
+    box-sizing: border-box;
+    border: 1px solid black;  
+    margin: 20px;
+}
+.box4{
+    background: coral;
+    width: 100px;
+    height: 100px;
+    padding: 20px;
+    box-sizing: border-box;
+    border: 1px solid black;  
+    margin: 20px;
+}
+.box5{
+    background: crimson;
+    width: 100px;
+    height: 100px;
+    padding: 20px;
+    box-sizing: border-box;
+    border: 1px solid black;  
+    margin: 20px;
+}
+.box6{
+    background: forestgreen;
+    width: 100px;
+    height: 100px;
+    padding: 20px;
+    box-sizing: border-box;
+    border: 1px solid black;  
+    margin: 20px;
+}
+.box7{
+    background: darkorchid;
+    width: 100px;
+    height: 100px;
+    padding: 20px;
+    box-sizing: border-box;
+    border: 1px solid black;  
+    margin: 20px;
+}
+.box8{
+    background: hotpink;
+    width: 100px;
+    height: 100px;
+    padding: 20px;
+    box-sizing: border-box;
+    border: 1px solid black;  
+    margin: 20px;
+}
+.box9{
+    background: indigo;
+    width: 100px;
+    height: 100px;
+    padding: 20px;
+    box-sizing: border-box;
+    border: 1px solid black;  
+    margin: 20px;
+}
+.box10{
+    background: dodgerblue;
+    width: 100px;
+    height: 100px;
+    padding: 20px;
+    box-sizing: border-box;
+    border: 1px solid black;  
+    margin: 20px;
+}
+
 .middle-content h2 {
     padding: 0 2%;
     margin-bottom: 0;
@@ -128,6 +209,17 @@ p {
     flex-wrap: wrap;
     justify-content: space-evenly;
 }
+
+.box1{color: teal;}
+.box2{color: gold;}
+.box3{color: cadetblue;}
+.box4{color: coral;}
+.box5{color: crimson;}
+.box6{color: forestgreen;}
+.box7{color: darkorchid;}
+.box8{color: hotpink;}
+.box9{color: indigo;}
+.box10{color: dodgerblue;}
 
 .middle-content .boxes .box {
     width: 12.5%;
