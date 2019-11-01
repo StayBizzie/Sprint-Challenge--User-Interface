@@ -67,14 +67,23 @@ p {
 }
 
 .header{
-    width: 60%;
+    width: auto;
     display: flex;
     justify-content: space-between;
     align-items: center;
     padding: 20px 2%;
     font-size: 14px;
+    border: black;
 }
+.title{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 2%;
 
+
+}
 .container {
     width: 800px;
     margin: 0 auto;
@@ -99,6 +108,16 @@ p {
     border-bottom: 1px dashed black;
 }
 
+.box1{color: teal;}
+.box2{color: gold;}
+.box3{color: cadetblue;}
+.box4{color: coral;}
+.box5{color: crimson;}
+.box6{color: forestgreen;}
+.box7{color: darkorchid;}
+.box8{color: hotpink;}
+.box9{color: indigo;}
+.box10{color: dodgerblue;}
 .middle-content h2 {
     padding: 0 2%;
     margin-bottom: 0;
