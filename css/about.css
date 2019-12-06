@@ -2,7 +2,7 @@
     align-items: center;
 }
 
-.container about-page{
+.container .about-page{
     justify-content: space-between;
     align-items: center;
     padding: 20px 2%;
